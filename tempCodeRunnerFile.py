@@ -1,0 +1,1 @@
+whle you made the first two of the contract paymens as agred you have refused to make the fincel $3 600 payment
