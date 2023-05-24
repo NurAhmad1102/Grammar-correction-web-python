@@ -14,4 +14,4 @@ import gradio as gr
 #To use Flask to put code to localhost
 pip install flask
 
-thank you ma'am
+Good luck
